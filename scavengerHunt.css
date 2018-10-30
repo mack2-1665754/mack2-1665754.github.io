@@ -1,0 +1,23 @@
+#partOne img {
+    float: right;
+}
+
+#partOne {
+        font-family: 'Spicy Rice', cursive;
+        font-size: 200%;
+        text-align: center;
+        border: 2px solid white;
+        border-radius: 10px; 
+}
+
+h1 {
+    text-align: center;
+    font-size: 400%;
+    font-family: 'Spicy Rice', cursive;
+    border-style: dotted;
+    border-color: white;
+    border-width:10px;
+}
+body {
+    background-color: paleturquoise;
+}
